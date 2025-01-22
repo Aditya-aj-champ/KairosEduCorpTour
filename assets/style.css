@@ -175,7 +175,7 @@
     height: 100vh;
     /* Fullscreen height */
     /* background: url("assets/image/top_banner2.jpg");  */
-    background-image: url("/assets/image/Travel_Parallax_Desktop.jpg");
+    background-image: url("assets/image/Travel_Parallax_Desktop.jpg");
     background-position: center !important;
     background-repeat: no-repeat;
     background-size: cover;
