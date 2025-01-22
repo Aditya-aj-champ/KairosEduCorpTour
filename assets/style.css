@@ -1082,7 +1082,7 @@ video {
 
 /* -------------------------footer------------------------------- */
 .footer {
-    background-image: url("/assets/image/footer/Background_img.png");
+    background-image: url("../assets/image/footer/Background_img.png");
     background-size: cover;
     background-position: center;
     color: white;
