@@ -1,4 +1,4 @@
-* {
+F* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -175,7 +175,7 @@
     height: 100vh;
     /* Fullscreen height */
     /* background: url("assets/image/top_banner2.jpg");  */
-    background-image: url(/assets/image/Travel_Parallax_Desktop.jpg);
+    background-image: url("../assets/image/Travel_Parallax_Desktop.jpg");
     background-position: center !important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -267,7 +267,7 @@
 }
 
 .why-choose-us {
-    background-image: url("/assets/image/Our4E’s/world-bg-img.jpg");
+    background-image: URL("../assets/image/Our4E’s/world-bg-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -383,7 +383,7 @@
 /* -------------------------Our 4 E’s end-------------------------- */
 /* --------------------------Make it memorable----------------- */
 .redefine-travel-with-us {
-    background-image: url("/assets/image/MakeItMemorable/redefine-bg-img.jpg");
+    background-image: URL("../assets/image/MakeItMemorable/redefine-bg-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -659,7 +659,7 @@ video {
 
 /* -----------------------testimonials carousel------------------------- */
 .redefine-travel-with-us1 {
-    background-image: url(/assets/image/testimonials-Carousel/testimonials-bg.jpg);
+    background-image: URL("../assets/image/testimonials-Carousel/testimonials-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -872,7 +872,7 @@ video {
 
 /* ---------------------------recant post----------------------------------- */
 .recent-post {
-    background-image: url(/assets/image/recantPost/jumping-man.jpg);
+    background-image: URL("../assets/image/recantPost/jumping-man.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
